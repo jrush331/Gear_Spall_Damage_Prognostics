@@ -1,0 +1,50 @@
+column,hdf5_path,unit,attrs
+ci_5_e_op,CI/5-e_op,,"{'M': np.int64(4096), 'acc_channel': 'Accel 2', 'edge': 'falling', 'num_cycles': np.int64(3), 'num_seconds': np.int64(1), 'ref_level': np.int64(180)}"
+ci_6_e_op,CI/6-e_op,,"{'M': np.int64(4096), 'acc_channel': 'Accel 2', 'edge': 'falling', 'num_cycles': np.int64(3), 'num_seconds': np.int64(1), 'ref_level': np.int64(180)}"
+ci_alr,CI/ALR,,"{'M': np.int64(4096), 'acc_channel': 'Accel 2', 'alr_bandwidth': np.int64(14), 'baseline': '/home/nxnasp/data/gear_data/Gear-breakage-2024/Surface-damage-progression/Exp-8/HDF5/Run-1/Dyno Gear311Run1_00200.hdf5', 'edge': 'falling', 'f_mesh': array([28]), 'max_alr_harmonic': np.int64(15), 'num_cycles': np.int64(3), 'num_seconds': np.int64(1), 'number_of_mesh': 'None', 'number_of_shaft': np.int64(1), 'ref_level': np.int64(180)}"
+ci_fleet_wtmade,CI/FLEET_WTMADE,,"{'M': np.int64(4096), 'acc_channel': 'Accel 2', 'as_fft': np.True_, 'compact_fft': np.True_, 'diffnum': np.int64(1), 'edge': 'falling', 'f_cutoff': np.int64(420), 'f_mesh': array([28]), 'modtype': 'FCAE', 'norm': np.True_, 'norm_first': np.False_, 'num_cycles': np.int64(3), 'num_seconds': np.int64(1), 'number_of_mesh': 'None', 'number_of_sidebands': np.int64(1), 'ref_level': np.int64(180), 'rem_dc': np.True_, 'siglen': np.int64(4096), 'train_exps': array(['SDP/Exp-3', 'SDP/Exp-5', 'SDP/Exp-7'], dtype=object), 'train_min_temp': np.float64(110.0), 'train_min_torque': np.float64(98.0), 'train_runs': array([['Run-1'],
+       ['Run-1'],
+       ['Run-1']], dtype=object)}"
+ci_fm0,CI/FM0,,"{'M': np.int64(4096), 'acc_channel': 'Accel 2', 'edge': 'falling', 'f_mesh': array([28]), 'num_cycles': np.int64(3), 'num_harmonics': 'None', 'num_seconds': np.int64(1), 'ref_level': np.int64(180)}"
+ci_fm4,CI/FM4,,"{'M': np.int64(4096), 'acc_channel': 'Accel 2', 'edge': 'falling', 'f_mesh': array([28]), 'num_cycles': np.int64(3), 'num_seconds': np.int64(1), 'number_of_mesh': 'None', 'number_of_sidebands': np.int64(1), 'ref_level': np.int64(180)}"
+ci_fm4star,CI/FM4star,,"{'M': np.int64(4096), 'acc_channel': 'Accel 2', 'baseline': '/home/nxnasp/data/gear_data/Gear-breakage-2024/Surface-damage-progression/Exp-8/HDF5/Run-1/Dyno Gear311Run1_00200.hdf5', 'edge': 'falling', 'f_mesh': array([28]), 'num_cycles': np.int64(3), 'num_seconds': np.int64(1), 'number_of_mesh': 'None', 'number_of_sidebands': np.int64(1), 'ref_level': np.int64(180)}"
+ci_m6a,CI/M6A,,"{'M': np.int64(4096), 'acc_channel': 'Accel 2', 'edge': 'falling', 'f_mesh': array([28]), 'num_cycles': np.int64(3), 'num_seconds': np.int64(1), 'number_of_mesh': 'None', 'number_of_sidebands': np.int64(1), 'ref_level': np.int64(180)}"
+ci_m6astar,CI/M6Astar,,"{'M': np.int64(4096), 'acc_channel': 'Accel 2', 'baseline': '/home/nxnasp/data/gear_data/Gear-breakage-2024/Surface-damage-progression/Exp-8/HDF5/Run-1/Dyno Gear311Run1_00200.hdf5', 'edge': 'falling', 'f_mesh': array([28]), 'num_cycles': np.int64(3), 'num_seconds': np.int64(1), 'number_of_mesh': 'None', 'number_of_sidebands': np.int64(1), 'ref_level': np.int64(180)}"
+ci_m8a,CI/M8A,,"{'M': np.int64(4096), 'acc_channel': 'Accel 2', 'edge': 'falling', 'f_mesh': array([28]), 'num_cycles': np.int64(3), 'num_seconds': np.int64(1), 'number_of_mesh': 'None', 'number_of_sidebands': np.int64(1), 'ref_level': np.int64(180)}"
+ci_m8astar,CI/M8Astar,,"{'M': np.int64(4096), 'acc_channel': 'Accel 2', 'baseline': '/home/nxnasp/data/gear_data/Gear-breakage-2024/Surface-damage-progression/Exp-8/HDF5/Run-1/Dyno Gear311Run1_00200.hdf5', 'edge': 'falling', 'f_mesh': array([28]), 'num_cycles': np.int64(3), 'num_seconds': np.int64(1), 'number_of_mesh': 'None', 'number_of_sidebands': np.int64(1), 'ref_level': np.int64(180)}"
+ci_na4,CI/NA4,,"{'M': np.int64(4096), 'acc_channel': 'Accel 2', 'edge': 'falling', 'f_mesh': array([28]), 'num_cycles': np.int64(3), 'num_seconds': np.int64(1), 'number_of_mesh': 'None', 'number_of_shaft': np.int64(1), 'ref_level': np.int64(180)}"
+ci_na4star,CI/NA4star,,"{'M': np.int64(4096), 'acc_channel': 'Accel 2', 'baseline': '/home/nxnasp/data/gear_data/Gear-breakage-2024/Surface-damage-progression/Exp-8/HDF5/Run-1/Dyno Gear311Run1_00200.hdf5', 'edge': 'falling', 'f_mesh': array([28]), 'num_cycles': np.int64(3), 'num_seconds': np.int64(1), 'number_of_mesh': 'None', 'number_of_shaft': np.int64(1), 'ref_level': np.int64(180)}"
+ci_crest_tsa,CI/crest-TSA,,"{'M': np.int64(4096), 'acc_channel': 'Accel 2', 'edge': 'falling', 'num_cycles': np.int64(3), 'num_seconds': np.int64(1), 'ref_level': np.int64(180)}"
+ci_crest_e_op,CI/crest-e_op,,"{'M': np.int64(4096), 'acc_channel': 'Accel 2', 'edge': 'falling', 'num_cycles': np.int64(3), 'num_seconds': np.int64(1), 'ref_level': np.int64(180)}"
+ci_e_ratio,CI/e_ratio,,"{'M': np.int64(4096), 'acc_channel': 'Accel 2', 'edge': 'falling', 'f_mesh': array([28]), 'num_cycles': np.int64(3), 'num_seconds': np.int64(1), 'number_of_mesh': 'None', 'number_of_shaft': np.int64(1), 'number_of_sidebands': np.int64(1), 'ref_level': np.int64(180)}"
+ci_kurtosis,CI/kurtosis,,"{'acc_channel': 'Accel 2', 'num_cycles': np.int64(3), 'num_seconds': np.int64(1)}"
+ci_kurtosis_tsa,CI/kurtosis-TSA,,"{'M': np.int64(4096), 'acc_channel': 'Accel 2', 'edge': 'falling', 'num_cycles': np.int64(3), 'num_seconds': np.int64(1), 'ref_level': np.int64(180)}"
+ci_kurtosis_e_op,CI/kurtosis-e_op,,"{'M': np.int64(4096), 'acc_channel': 'Accel 2', 'edge': 'falling', 'num_cycles': np.int64(3), 'num_seconds': np.int64(1), 'ref_level': np.int64(180)}"
+ci_ptp,CI/ptp,,"{'acc_channel': 'Accel 2', 'num_cycles': np.int64(3), 'num_seconds': np.int64(1)}"
+ci_ptp_e_op,CI/ptp-e_op,,"{'M': np.int64(4096), 'acc_channel': 'Accel 2', 'edge': 'falling', 'num_cycles': np.int64(3), 'num_seconds': np.int64(1), 'ref_level': np.int64(180)}"
+ci_rms,CI/rms,,"{'acc_channel': 'Accel 2', 'num_cycles': np.int64(3), 'num_seconds': np.int64(1), 'rms_remove_mean': np.True_}"
+ci_rms_tsa,CI/rms-TSA,,"{'M': np.int64(4096), 'acc_channel': 'Accel 2', 'edge': 'falling', 'num_cycles': np.int64(3), 'num_seconds': np.int64(1), 'ref_level': np.int64(180)}"
+ci_rms_e_op,CI/rms-e_op,,"{'M': np.int64(4096), 'acc_channel': 'Accel 2', 'edge': 'falling', 'num_cycles': np.int64(3), 'num_seconds': np.int64(1), 'ref_level': np.int64(180)}"
+ci_skew_e_op,CI/skew-e_op,,"{'M': np.int64(4096), 'acc_channel': 'Accel 2', 'edge': 'falling', 'num_cycles': np.int64(3), 'num_seconds': np.int64(1), 'ref_level': np.int64(180)}"
+ci_v_peak_mmps,CI/v_peak_mmps,,"{'acc_channel': 'Accel 2', 'fs': np.int64(100000), 'num_cycles': np.int64(3), 'num_seconds': np.int64(1), 'v_peak_f_max': np.int64(10000), 'v_peak_f_min': np.int64(10)}"
+ctx_accel1_rms,Context/Accel1 RMS,g,{'NI_ChannelName': 'Accel1 RMS'}
+ctx_accel2_rms,Context/Accel2 RMS,g,{'NI_ChannelName': 'Accel2 RMS'}
+ctx_pau_speed,Context/PAU Speed,RPM,{'NI_ChannelName': 'PAU Speed'}
+ctx_pau_torque,Context/PAU Torque,ft-lbf,{'NI_ChannelName': 'PAU Torque'}
+ctx_temperature,Context/Temperature,degF,{'NI_ChannelName': 'Temperature'}
+dm4500_bin_0,DM4500 Data/DM4500 Bin 0,# Particles,{'NI_ChannelName': 'DM4500 Bin 0'}
+dm4500_bin_1,DM4500 Data/DM4500 Bin 1,# Particles,{'NI_ChannelName': 'DM4500 Bin 1'}
+dm4500_bin_2,DM4500 Data/DM4500 Bin 2,# Particles,{'NI_ChannelName': 'DM4500 Bin 2'}
+dm4500_bin_3,DM4500 Data/DM4500 Bin 3,# Particles,{'NI_ChannelName': 'DM4500 Bin 3'}
+dm4500_bin_4,DM4500 Data/DM4500 Bin 4,# Particles,{'NI_ChannelName': 'DM4500 Bin 4'}
+dm4500_bin_5,DM4500 Data/DM4500 Bin 5,# Particles,{'NI_ChannelName': 'DM4500 Bin 5'}
+dm4500_bin_6,DM4500 Data/DM4500 Bin 6,# Particles,{'NI_ChannelName': 'DM4500 Bin 6'}
+dm4500_bin_7,DM4500 Data/DM4500 Bin 7,# Particles,{'NI_ChannelName': 'DM4500 Bin 7'}
+icm2_bin_0,ICM2 Data/ICM2 Bin 0,# Particles,{'NI_ChannelName': 'ICM2 Bin 0'}
+icm2_bin_1,ICM2 Data/ICM2 Bin 1,# Particles,{'NI_ChannelName': 'ICM2 Bin 1'}
+icm2_bin_2,ICM2 Data/ICM2 Bin 2,# Particles,{'NI_ChannelName': 'ICM2 Bin 2'}
+icm2_bin_3,ICM2 Data/ICM2 Bin 3,# Particles,{'NI_ChannelName': 'ICM2 Bin 3'}
+icm2_bin_4,ICM2 Data/ICM2 Bin 4,# Particles,{'NI_ChannelName': 'ICM2 Bin 4'}
+icm2_bin_5,ICM2 Data/ICM2 Bin 5,# Particles,{'NI_ChannelName': 'ICM2 Bin 5'}
+icm2_bin_6,ICM2 Data/ICM2 Bin 6,# Particles,{'NI_ChannelName': 'ICM2 Bin 6'}
+icm2_bin_7,ICM2 Data/ICM2 Bin 7,# Particles,{'NI_ChannelName': 'ICM2 Bin 7'}
