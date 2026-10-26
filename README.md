@@ -4,7 +4,8 @@
 
 The team used Claude Code to assist with portions of this project, including code development and editing of the report text; all analysis decisions, results, and interpretations are the authors’ own and were verified by the team.
 
-# 
+# Link to Google Doc version of report:
+https://docs.google.com/document/d/1-0saHnEEm_DfWUmhjSHtMaCVOX7esOt2/edit?usp=sharing&ouid=107286652439241406113&rtpof=true&sd=true
 
 # Gear spall prognostics — team notebook package (Group 09, SIADS 696)
 
